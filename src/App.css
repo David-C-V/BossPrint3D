@@ -36,3 +36,20 @@
   padding: 10%;
   margin: 10%
 }
+/* contenedor generico*/
+.contenedor
+{
+ display: flex;
+ background-color: #ce7b1cc9;
+}
+
+.contenedor > div {
+background-color: #184ee260;
+width: 49vw;
+margin: 1vw;
+text-align: center;
+font-size: 2vw;
+box-sizing: border-box;
+color:black;
+
+}
